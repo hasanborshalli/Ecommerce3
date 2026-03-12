@@ -294,7 +294,8 @@
         <div class="container">
             <div class="footer-bottom">
                 <span>&copy; {{ date('Y') }} {{ $siteName ?? 'Luma' }}. All rights reserved.</span>
-                <span class="powered-by">Built by <span>brndng.</span></span>
+                <a href="https://brndnglb.com" target="_blank"><span class="powered-by">Built by
+                        <span>brndng.</span></span></a>
             </div>
         </div>
     </footer>
