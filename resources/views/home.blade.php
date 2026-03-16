@@ -97,7 +97,7 @@
 
 {{-- ── 3. FEATURED: asymmetric — 1 large left + 3 products right ── --}}
 @if($featured->count())
-<section class="section-md" style="background:var(--warm-cream)">
+<section class="section-md featured" style="background:var(--warm-cream)">
     <div class="container">
         <div class="section-header" style="margin-bottom:var(--sp-8)">
             <span class="section-eyebrow">Curated</span>

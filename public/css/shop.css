@@ -953,6 +953,9 @@ nav[aria-label="pagination"] {
         padding-bottom: var(--sp-4);
         margin-bottom: var(--sp-2);
     }
+    .featured {
+        margin-top: 450px;
+    }
     .shop-sidebar .sidebar-section {
         margin-bottom: 0;
     }

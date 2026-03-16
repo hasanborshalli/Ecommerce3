@@ -735,7 +735,7 @@ select.aform-control {
     white-space: nowrap;
 }
 .admin-table tbody td {
-    padding: var(--sp-3) var(--sp-4);
+    padding: var(--sp-3) var(--sp-2);
     border-bottom: 1px solid rgba(228, 228, 231, 0.6);
     color: var(--admin-text);
     vertical-align: middle;
